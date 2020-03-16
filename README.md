@@ -11,3 +11,6 @@ https://devdocs.io/
 Web archive URL
 
 https://web.archive.org/
+
+Color pick URL
+https://colorhunt.co/
