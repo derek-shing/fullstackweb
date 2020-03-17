@@ -14,3 +14,9 @@ https://web.archive.org/
 
 Color pick URL
 https://colorhunt.co/
+
+Design:
+https://ui-patterns.com/
+
+https://dribbble.com/
+
