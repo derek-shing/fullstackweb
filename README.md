@@ -15,8 +15,15 @@ https://web.archive.org/
 Color pick URL
 https://colorhunt.co/
 
-Design:
+Design:  
+
 https://ui-patterns.com/
 
 https://dribbble.com/
+
+https://fontawesome.com/start
+
+https://fonts.google.com/
+
+
 
