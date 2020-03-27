@@ -1,18 +1,58 @@
 #title{
-  background-color: #ffb2a7;
+  background-color: #ff570c;
+  color: white;
+}
+
+.container{
+  padding: 3% 10%;
 }
 
 .navbar{
+  padding-bottom: 4.5rem;
+
+
+}
+
+.navbar-brand{
+  font-size: 2rem;
+  font-weight: bold;
 
 }
 
 .nav-item{
-  padding-right:10px;
+  padding-right:20px;
 
 
 }
 
 h1{
   font-family: 'Oswald-Extra-Light';
-  line-height:1.5 
+  font-size: 4rem;
+  line-height:1;
+  padding-bottom: 8rem;
+}
+
+
+h3{
+  font-weight: bold;
+}
+
+
+#features{
+  padding: 7% 13%
+}
+
+
+.featurebox{
+  text-align: center;
+}
+
+.icon{
+  color: red;
+  padding-bottom: 1rem
+
+}
+
+.icon:hover{
+  color: blue;
 }
