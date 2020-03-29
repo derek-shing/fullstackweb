@@ -56,3 +56,49 @@ h3{
 .icon:hover{
   color: blue;
 }
+
+#testimonials{
+
+  background-color: #ff570c;
+  color: white;
+
+
+  text-align: center;
+
+
+
+
+}
+
+.carousel-item{
+    padding: 7% 13% 3%;
+}
+
+#press{
+    padding: 7% 13% 3%;
+    text-align: center;
+
+}
+
+.press-image{
+  width: 15%;
+  margin: 20px 15px 20px;
+
+
+}
+
+.profile-image{
+  width: 10%;
+  border-radius: 100%;
+  margin: 3% 13% 7%;
+
+}
+
+
+#pricing{
+  padding: 7% 13%;
+  text-align: center;
+}
+.price-box{
+  text-align: center;
+}
