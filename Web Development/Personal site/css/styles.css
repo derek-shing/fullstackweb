@@ -1,16 +1,27 @@
+
+section{
+  padding: 3% 7% 3%;
+  text-align: center;
+}
+
+.section1{
+  background-color: #323232;
+  color: white;
+}
+
+.section2{
+  background-color: white;
+  color: #323232;
+}
+
+
 body{
   background-color: #f1fcfc;
 }
 
-hr{
 
-}
-
-h1{
-  
-}
-
-h3{
-
-
+.project-box{
+  text-align: center;
+  background-color: #323232;
+  border-color: white;
 }
